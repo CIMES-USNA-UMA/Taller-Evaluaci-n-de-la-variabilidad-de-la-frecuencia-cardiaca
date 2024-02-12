@@ -1,1 +1,1 @@
-# Taller-Evaluaci-n-de-la-variabilidad-de-la-frecuencia-cardiaca
+# Taller: Evaluación de la variabilidad de la frecuencia cardiaca
